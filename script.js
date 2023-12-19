@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         const word = document.createElement('div');
         word.className = 'word';
-        word.style.left = Math.random() * 9 + 'vw';
+        word.style.left = Math.random() * 90 + 'vw';
 	word.style.top = '6%';
         word.innerText = generateRandomWord();
         wordRain.appendChild(word);
