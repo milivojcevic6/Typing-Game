@@ -31,6 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const word = document.createElement('div');
         word.className = 'word';
         word.style.left = Math.random() * 60 + 'vw';
+	word.style.top = '6%';
         word.innerText = generateRandomWord();
         wordRain.appendChild(word);
 
@@ -39,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function checkPosition() {
         const wordRect = word.getBoundingClientRect();
-        const isWordAtBottom = wordRect.bottom >= window.innerHeight * 0.95;
+        const isWordAtBottom = wordRect.bottom >= window.innerHeight * 0.83;
 
         //console.log('Current location of the word:', wordRect.bottom, window.innerHeight);
         if (isWordAtBottom && !word.classList.contains('frozen')) {
