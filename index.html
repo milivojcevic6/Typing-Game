@@ -5,16 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
     <title>Typing Game</title>
+    <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
 </head>
 <body>
-    <div class="game-container">
-	<button id="pauseButton" aria-label="Pause">
-		<span id="pauseIcon" alt="Pause"/>
-	</button>
-        <div class="word-rain"></div>
-        <textarea id="user-input" placeholder="Type here..."></textarea>
-        <div class="score">Score: <span id="score">0</span></div>
-    </div>
-    <script src="game.js"></script>
+
+	<div class="animation">
+	
+		<div class="start-btn">
+			<h1>Typing Game</h1>
+			<a href="game.html"><button>START</button></a>
+		</div>
+		<dotlottie-player 
+			src="https://lottie.host/a8bf8169-58b3-426d-bb66-9bfbbb10c937/jvgpKOXx7C.json" 
+			background="transparent" 
+			speed="1" 
+			style="width: 300px; height: 300px" 
+			direction="1" 
+			mode="normal" 
+			loop 
+			autoplay />
+
+	</div>
+
 </body>
 </html>
