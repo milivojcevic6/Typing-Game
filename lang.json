@@ -1,0 +1,74 @@
+[
+  {
+    "lan": "English",
+    "short": "ENG",
+    "url": "Eng.png",
+    "words": [
+      "abandon", "ability", "absence", "accident", "acquire", "admire", "advice", "affection", "ambition", "analyze",
+      "attractive", "average", "balance", "bravery", "celebrate", "challenge", "character", "comfort", "communication", "compromise",
+      "confidence", "considerate", "contribute", "courage", "curiosity", "dedicate", "determination", "discover", "education", "embrace",
+      "encourage", "enthusiasm", "equality", "evaluate", "experience", "expression", "faith", "flexibility", "forgive", "freedom",
+      "friendship", "generosity", "gratitude", "growth", "happiness", "harmony", "health", "honesty", "hope", "imagine",
+      "improve", "independence", "initiative", "innovate", "inspire", "integrity", "intuition", "investigate", "joy", "justice",
+      "kindness", "knowledge", "leadership", "learning", "listen", "loyalty", "motivate", "nature", "nurture", "open-minded",
+      "optimism", "passion", "patience", "peace", "perseverance", "perspective", "persistence", "pleasure", "power", "practice",
+      "purpose", "quality", "respect", "responsibility", "safety", "self-discipline", "service", "sincerity", "solution", "spirit",
+      "strength", "success", "support", "teamwork", "time", "tolerance", "trust", "understanding", "unite", "value",
+      "vision", "vitality", "well-being", "wisdom", "wonder", "worker"
+    ]
+  },
+  {
+    "lan": "Serbian",
+    "short": "SRB",
+    "url": "Srb.png",
+    "words": [
+      "aparat", "banka", "brak", "briga", "celina", "cement", "cirkus", "delegacija", "dijalog", "dobrovoljac",
+      "atraktivan", "prosek", "balans", "hrabrost", "slaviti", "izazov", "karakter", "udobnost", "komunikacija", "kompromis",
+      "samopouzdanje", "pažljiv", "doprineti", "hrabro", "radoznalost", "posvetiti se", "određenost", "otkriti", "obrazovanje", "zagrljaj",
+      "ohrabriti", "entuzijazam", "jednakost", "proceniti", "iskustvo", "izražavanje", "vera", "fleksibilnost", "oprostiti", "sloboda",
+      "prijateljstvo", "velikodušnost", "zahvalnost", "rast", "sreća", "harmonija", "zdravlje", "iskrenost", "nada", "zamisliti",
+      "unaprediti", "nezavisnost", "inicijativa", "inovirati", "inspirisati", "integritet", "intuicija", "istražiti", "radost", "pravda",
+      "ljubaznost", "znanje", "vođstvo", "učenje", "slušati", "vernost", "motivisati", "priroda", "negovati", "otvoren um",
+      "optimizam", "strast", "strpljenje", "mir", "upornost", "perspektiva", "upornost", "zadovoljstvo", "snaga", "praksa",
+      "svrha", "kvalitet", "poštovanje", "odgovornost", "sigurnost", "samodisciplina", "služba", "iskrenost", "rešenje", "duh",
+      "snaga", "uspeh", "podrška", "timski rad", "vreme", "tolerancija", "poverenje", "razumevanje", "ujediniti", "vrednost",
+      "vizija", "vitalnost", "dobrostanje", "mudrost", "čudo", "radnik"
+    ]
+  },
+  {
+    "lan": "Spanish",
+    "short": "ESP",
+    "url": "Esp.png",
+    "words": [
+      "abandonar", "absoluto", "aburrido", "aceptar", "accidente", "acompañar", "adición", "afecto", "ambición", "analizar",
+      "atractivo", "promedio", "equilibrio", "valentía", "celebrar", "desafío", "carácter", "comodidad", "comunicación", "compromiso",
+      "confianza", "considerado", "contribuir", "coraje", "curiosidad", "dedicar", "determinación", "descubrir", "educación", "abraza",
+      "animar", "entusiasmo", "igualdad", "evaluar", "experiencia", "expresión", "fe", "flexibilidad", "perdonar", "libertad",
+      "amistad", "generosidad", "gratitud", "crecimiento", "felicidad", "armonía", "salud", "honestidad", "esperanza", "imaginar",
+      "mejorar", "independencia", "iniciativa", "innovar", "inspirar", "integridad", "intuición", "investigar", "alegría", "justicia",
+      "amabilidad", "conocimiento", "liderazgo", "aprendizaje", "escuchar", "lealtad", "motivar", "naturaleza", "nutrir", "mente abierta",
+      "optimismo", "pasión", "paciencia", "paz", "perseverancia", "perspectiva", "persistencia", "placer", "poder", "práctica",
+      "propósito", "calidad", "respeto", "responsabilidad", "seguridad", "autodisciplina", "servicio", "sinceridad", "solución", "espíritu",
+      "fuerza", "éxito", "apoyo", "trabajo en equipo", "tiempo", "tolerancia", "confianza", "comprensión", "unir", "valor",
+      "visión", "vitalidad", "bienestar", "sabiduría", "maravilla", "trabajador"
+    ]
+  },
+  {
+    "lan": "French",
+    "short": "FRA",
+    "url": "Fra.png",
+    "words": [
+      "absence", "abstrait", "abuser", "accepter", "accident", "accompagner", "addition", "affection", "ambition", "analyser",
+      "attrayant", "moyenne", "équilibre", "bravoure", "célébrer", "défi", "caractère", "confort", "communication", " compromis",
+      "confiance", "attentionné", "contribuer", "courage", "curiosité", "dévouer", "détermination", "découvrir", "éducation", "embrasser",
+      "encourager", "enthousiasme", "égalité", "évaluer", "expérience", "expression", "foi", "flexibilité", "pardonner", "liberté",
+      "amitié", "générosité", "gratitude", "croissance", "bonheur", "harmonie", "santé", "honnêteté", "espoir", "imaginer",
+      "améliorer", "indépendance", "initiative", "innover", "inspirer", "intégrité", "intuition", "enquêter", "joie", "justice",
+      "bonté", "connaissance", "leadership", "apprentissage", "écouter", "loyauté", "motiver", "nature", "nourrir", "ouverture d'esprit",
+      "optimisme", "passion", "patience", "paix", "persévérance", "perspective", "persistance", "plaisir", "puissance", "pratique",
+      "but", "qualité", "respect", "responsabilité", "sécurité", "autodiscipline", "service", "sincérité", "solution", "esprit",
+      "force", "succès", "soutien", "travail d'équipe", "temps", "tolérance", "confiance", "compréhension", "unir", "valeur",
+      "vision", "vitalité", "bien-être", "sagesse", "merveille", "travailleur"
+    ]
+  }
+]
